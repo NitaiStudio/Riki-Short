@@ -1,102 +1,77 @@
-# <p align="center">🎬 RiKiShorts — Ultimate YT Shorts Clone PWA</p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.0.0-ff0050?style=for-the-badge" alt="Version">
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-00ff00?style=for-the-badge" alt="Maintained">
-  <img src="https://img.shields.io/badge/Platform-Mobile%20|%20Web-blue?style=for-the-badge" alt="Platform">
-  <img src="https://img.shields.io/badge/License-MIT-white?style=for-the-badge" alt="License">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FF0050&center=true&vCenter=true&width=435&lines=⚡+RiKiShorts;Next-Gen+Video+App;PWA+Supported;Multi-Language+UI" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>A lightweight, high-performance, single-file YouTube Shorts clone built with Progressive Web App (PWA) capabilities.</b>
+  <img src="https://img.icons8.com/ios-filled/100/ff0050/bolt.png" width="100" />
 </p>
 
----
+<h1 align="center">🎬 RiKiShorts - The Ultimate Short Video Experience</h1>
 
-## 🌟 Project Overview
-
-**RiKiShorts** is a mobile-first, vertical video streaming platform designed to replicate the immersive experience of YouTube Shorts. Built strictly as a **single-file solution**, it integrates the YouTube Data API to fetch real-time content while maintaining an ultra-lightweight footprint. 
-
-With full **PWA support**, users can install the app directly on their Android or iOS home screens, providing a native-app feel with smooth transitions and offline manifest capabilities.
-
----
-
-## ✨ Key Features
-
-*   🚀 **Full PWA Support:** Installable on mobile devices with a standalone splash screen.
-*   📱 **Vertical Snap Scrolling:** Seamless 1:1 replica of the Shorts/TikTok swipe experience.
-*   🌓 **Dynamic Theme Engine:** Instant toggle between Dark and Light modes.
-*   ❤️ **Interactive Socials:** Double-tap to like animation, real-time comment simulation, and link sharing.
-*   🔍 **Smart Search:** Integrated search modal to find any shorts globally.
-*   ⚡ **Single File Architecture:** Zero external dependencies (except FontAwesome & YT API). No complex builds required.
-*   📉 **Network Optimized:** Adaptive video quality based on user connection speed.
-
----
-
-## 🛠️ Tech Stack Highlights
-
-<p align="left">
-  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png"></code>
-</p>
-
-*   **Frontend:** Vanilla JavaScript (ES6+), HTML5, CSS3.
-*   **API:** YouTube Data API v3.
-*   **Styling:** Custom CSS Animations & Flexbox/Grid.
-*   **Icons:** FontAwesome 5.15.
-
----
-
-## 🚀 Quick Deployment
-
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/yourusername/RiKiShorts.git
-    ```
-2.  **Open the file:**
-    Simply open `theme-6376829933415962358.html` in any modern web browser.
-3.  **Customization:**
-    Change the `API_KEY` variable inside the `<script>` tag with your own YouTube API Key from Google Cloud Console.
-
----
-
-## 📱 Mobile Installation (PWA)
-
-To install **RiKiShorts** as an app:
-1.  Open the hosted link in **Chrome** (Android) or **Safari** (iOS).
-2.  Tap the **Three Dots** or **Share Icon**.
-3.  Select **"Add to Home Screen"**.
-4.  Launch from your app drawer!
-
----
-
-## 🤝 Support & Contribution
-
-If you find this project useful, please consider giving it a ⭐ and supporting the development!
-
-<p align="left">
-  <a href="https://paypal.me/yourusername">
-    <img src="https://img.shields.io/badge/Donate-PayPal-blue?style=for-the-badge&logo=paypal" alt="Donate PayPal">
-  </a>
-  <a href="https://www.buymeacoffee.com/yourusername">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+<p align="center">
+  <a href="https://nitaistudio.github.io/Riki-Short/">
+    <img src="https://img.shields.io/badge/LIVE%20DEMO-🚀-ff0050?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
   </a>
 </p>
 
-### 🌐 Official Links
-*   **Website:** [https://yourwebsite.com](https://yourwebsite.com)
-*   **Demo Link:** [Live Preview Here](https://your-demo-link.com)
-*   **Privacy Policy:** [View Policy](https://www.e-droid.net/privacy.php?ida=3598770&idl=en)
+<hr>
+
+## 🌐 Multi-Language Introduction
+
+### 🇺🇸 English
+**RiKiShorts** is a premium short video platform offering a seamless experience similar to TikTok or YouTube Shorts. Built with cutting-edge technology, it features a smooth UI, Dark Mode, and full **PWA support** for a native app feel.
+
+### 🇧🇩 বাংলা (Bengali)
+**রিকিশর্টস (RiKiShorts)** একটি প্রিমিয়াম শর্ট ভিডিও প্ল্যাটফর্ম, যা ব্যবহারকারীদের দেয় টিকটক বা ইউটিউব শর্টসের মতো দুর্দান্ত অভিজ্ঞতা। এটি সম্পূর্ণ রেসপনসিভ, ডার্ক মোড সাপোর্টেড এবং একটি শক্তিশালী **PWA সাপোর্ট** যুক্ত অ্যাপ।
+
+### 🇮🇳 हिंदी (Hindi)
+**रिकीशॉर्ट्स (RiKiShorts)** एक प्रीमियम शॉर्ट वीडियो प्लेटफॉर्म है जो टिकटॉक या यूट्यूब शॉर्ट्स जैसा शानदार अनुभव देता है। यह पूरी तरह से रिस्पॉन्सिव है, इसमें डार्क मोड है और यह **PWA सपोर्ट** के साथ आता है ताकि आप इसे ऐप की तरह इस्तेमाल कर सकें।
+
+<hr>
+
+## ✨ Key Features | প্রধান বৈশিষ্ট্যসমূহ | मुख्य विशेषताएं
+
+| Feature (EN) | বৈশিষ্ট্য (BN) | विशेषताएं (HI) |
+| :--- | :--- | :--- |
+| 📱 **PWA Support** | পিডব্লিউএ সাপোর্ট | PWA सपोर्ट |
+| 🎥 **Infinite Scroll** | ইনফিনিট স্ক্রল | इनफिनिटी स्क्रॉल |
+| 🌗 **Dark Mode** | ডার্ক মোড | ডার্ক মোড |
+| ⚡ **Super Fast** | সুপার ফাস্ট | सुपर फास्ट |
+| ❤️ **Like & Share** | লাইক ও শেয়ার | लाइक और शेयर |
+
+<hr>
+
+## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
+</p>
+
+<hr>
+
+## 💖 Support Me | আমাকে সাপোর্ট করুন | मेरा समर्थन करें
+
+| Platform | Support Link |
+| :--- | :--- |
+| ☕ **Buy Me a Coffee** | [![Donate](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nitaigrp00a) |
+| 🍷 **Ko-fi** | [![Support](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/nitaisarkar) |
+| 👑 **Patreon** | [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=flat-square&logo=patreon&logoColor=white)](https://www.patreon.com/cw/NitaiStudio) |
+
+<hr>
+
+## 📬 Contact | যোগাযোগ | संपर्क करें
+📧 **Email:** [nitai.grp00@gmail.com](mailto:nitai.grp00@gmail.com)  
+🌐 **Website:** [nitaistudio.github.io](https://nitaistudio.github.io/Riki-Short/)
 
 ---
-
-## 📜 License
-
-Distributed under the **MIT License**. See `LICENSE` for more information.
-
-<p align="center">Built with ❤️ by RiKi Dev Team</p>
 <p align="center">
-  <a href="#top">🔼 Back to top</a>
+  <i>Developed with ❤️ by Nitai Studio</i><br>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=ff0050&height=100&section=footer" />
 </p>
+
+<!-- SEO Keywords -->
+<div align="center">
+  <code>Shorts App</code> <code>YouTube Shorts Clone</code> <code>Viral Video App</code> <code>Nitai Studio</code> <code>PWA Web App</code> <code>Hindi Shorts</code> <code>Bengali Shorts App</code>
+</div>
