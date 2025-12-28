@@ -1,77 +1,67 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FF0050&center=true&vCenter=true&width=435&lines=⚡+RiKiShorts;Next-Gen+Video+App;PWA+Supported;Multi-Language+UI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF0050&center=true&vCenter=true&width=500&lines=%E2%9A%A1+Welcome+to+RiKiShorts;Next-Gen+Video+Experience;PWA+Supported;Super+Fast+%26+Smooth+UI" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.icons8.com/ios-filled/100/ff0050/bolt.png" width="100" />
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/bolt.svg" width="80" height="80" style="fill: #ff0050;" />
 </p>
 
-<h1 align="center">🎬 RiKiShorts - The Ultimate Short Video Experience</h1>
+<h1 align="center">🎬 RiKiShorts - The Ultimate Experience</h1>
 
 <p align="center">
   <a href="https://nitaistudio.github.io/Riki-Short/">
-    <img src="https://img.shields.io/badge/LIVE%20DEMO-🚀-ff0050?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
+    <img src="https://img.shields.io/badge/LIVE_DEMO-🚀_CLICK_HERE-ff0050?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
   </a>
 </p>
 
-<hr>
+---
 
 ## 🌐 Multi-Language Introduction
 
 ### 🇺🇸 English
-**RiKiShorts** is a premium short video platform offering a seamless experience similar to TikTok or YouTube Shorts. Built with cutting-edge technology, it features a smooth UI, Dark Mode, and full **PWA support** for a native app feel.
+**RiKiShorts** is a premium short video platform. Experience a smooth, lightning-fast UI with full **PWA support**. Install it on your home screen and enjoy!
 
 ### 🇧🇩 বাংলা (Bengali)
-**রিকিশর্টস (RiKiShorts)** একটি প্রিমিয়াম শর্ট ভিডিও প্ল্যাটফর্ম, যা ব্যবহারকারীদের দেয় টিকটক বা ইউটিউব শর্টসের মতো দুর্দান্ত অভিজ্ঞতা। এটি সম্পূর্ণ রেসপনসিভ, ডার্ক মোড সাপোর্টেড এবং একটি শক্তিশালী **PWA সাপোর্ট** যুক্ত অ্যাপ।
+**রিকিশর্টস (RiKiShorts)** একটি প্রিমিয়াম শর্ট ভিডিও প্ল্যাটফর্ম। এটি অত্যন্ত দ্রুত এবং এতে রয়েছে **PWA সাপোর্ট**, যার মাধ্যমে আপনি এটি অ্যাপের মতো ব্যবহার করতে পারবেন।
 
 ### 🇮🇳 हिंदी (Hindi)
-**रिकीशॉर्ट्स (RiKiShorts)** एक प्रीमियम शॉर्ट वीडियो प्लेटफॉर्म है जो टिकटॉक या यूट्यूब शॉर्ट्स जैसा शानदार अनुभव देता है। यह पूरी तरह से रिस्पॉन्सिव है, इसमें डार्क मोड है और यह **PWA सपोर्ट** के साथ आता है ताकि आप इसे ऐप की तरह इस्तेमाल कर सकें।
+**रिकीशॉर्ट्स (RiKiShorts)** एक प्रीमियम शॉर्ट वीडियो प्लेटफॉर्म है। यह बहुत तेज़ है और इसमें **PWA सपोर्ट** है, जिससे आप इसे ऐप की तरह इस्तेमाल कर सकते हैं।
 
-<hr>
+---
 
-## ✨ Key Features | প্রধান বৈশিষ্ট্যসমূহ | मुख्य विशेषताएं
+## ✨ Features | বৈশিষ্ট্যসমূহ | विशेषताएं
 
-| Feature (EN) | বৈশিষ্ট্য (BN) | विशेषताएं (HI) |
+| ⚡ Performance | 🎥 Media | 📱 Mobile |
 | :--- | :--- | :--- |
-| 📱 **PWA Support** | পিডব্লিউএ সাপোর্ট | PWA सपोर्ट |
-| 🎥 **Infinite Scroll** | ইনফিনিট স্ক্রল | इनफिनिटी स्क्रॉल |
-| 🌗 **Dark Mode** | ডার্ক মোড | ডার্ক মোড |
-| ⚡ **Super Fast** | সুপার ফাস্ট | सुपर फास्ट |
-| ❤️ **Like & Share** | লাইক ও শেয়ার | लाइक और शेयर |
+| **Super Fast Loading** | **Infinite Scrolling** | **Install as PWA** |
+| **Dark/Light Mode** | **HD Quality** | **Push to Refresh** |
 
-<hr>
+---
 
 ## 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
-</p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-<hr>
+---
 
 ## 💖 Support Me | আমাকে সাপোর্ট করুন | मेरा समर्थन करें
 
-| Platform | Support Link |
-| :--- | :--- |
-| ☕ **Buy Me a Coffee** | [![Donate](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nitaigrp00a) |
-| 🍷 **Ko-fi** | [![Support](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/nitaisarkar) |
-| 👑 **Patreon** | [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=flat-square&logo=patreon&logoColor=white)](https://www.patreon.com/cw/NitaiStudio) |
-
-<hr>
-
-## 📬 Contact | যোগাযোগ | संपर्क करें
-📧 **Email:** [nitai.grp00@gmail.com](mailto:nitai.grp00@gmail.com)  
-🌐 **Website:** [nitaistudio.github.io](https://nitaistudio.github.io/Riki-Short/)
-
----
 <p align="center">
-  <i>Developed with ❤️ by Nitai Studio</i><br>
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=ff0050&height=100&section=footer" />
+  <a href="https://buymeacoffee.com/nitaigrp00a">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+  <a href="https://ko-fi.com/nitaisarkar">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  </a>
+  <a href="https://www.patreon.com/cw/NitaiStudio">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
+  </a>
 </p>
 
-<!-- SEO Keywords -->
-<div align="center">
-  <code>Shorts App</code> <code>YouTube Shorts Clone</code> <code>Viral Video App</code> <code>Nitai Studio</code> <code>PWA Web App</code> <code>Hindi Shorts</code> <code>Bengali Shorts App</code>
-</div>
+---
+
+## 📬 Contact | যোগাযোগ | संपर्क करें
+📧 **Email:** [nitai.grp00@gmail.com](mailto:nitai.grp00@gmail.com)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=ff0050&height=100&section=footer" />
+</p>
